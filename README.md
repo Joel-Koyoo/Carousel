@@ -1,0 +1,1 @@
+Watch the picture flow in a carousel using basic javascript. All tailored to easily be changed
